@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": ".."
+		},
+		{
+			"name": "v2wthemes",
+			"path": "..\\..\\..\\..\\..\\xampp\\v2wthemes"
+		}
+	],
+	"settings": {
+		"git.ignoreLimitWarning": true
+	}
+}
