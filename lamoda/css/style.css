@@ -739,7 +739,13 @@ section {
 	height: 4.5%;
 	padding-top: 10px;
 }
-
+.n1{
+	padding-top: 10px;
+	color: #FFF;
+	font-weight: 600;
+	font-size: 15px;
+	text-transform: uppercase;
+}
 
 /*-----------------------------------------------------------------*/
 /* Slider
@@ -771,6 +777,14 @@ section {
 
 .small {
     font-size: 20px;
+    font-weight: 200;
+    color: #FFF;
+    margin: 30px 0px 0px;
+    text-transform: uppercase;
+	font-weight: 600;
+}
+.small1 {
+    font-size: 35px;
     font-weight: 200;
     color: #FFF;
     margin: 30px 0px 0px;
@@ -2131,12 +2145,14 @@ ul.timeline {
 	margin: 10px;
 	width: 150px;
 	margin: 0 auto;
+	
 }
 
 .clients-carousel .item figure img {
 	display: block;
 	margin: 0 auto;
 	opacity:0.5;
+	
 }
 
 .clients-carousel .item figure img:hover {
@@ -2951,6 +2967,7 @@ input#myFile::-webkit-file-upload-button {
 .small {
     font-size: 19px;
 }
+
 
 }
 
